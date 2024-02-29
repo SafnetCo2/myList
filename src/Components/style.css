@@ -1,0 +1,12 @@
+.Todo{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    align-items: center;
+}
+.icons{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px;
+    gap: 10px;
+}
